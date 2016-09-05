@@ -1,6 +1,6 @@
 {
   "name": "hwh-lunch",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Returns the lunch menu from Henry Wood House, a cafe in a London workplace",
   "main": "index.js",
   "scripts": {

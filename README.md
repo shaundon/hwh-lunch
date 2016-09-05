@@ -1,5 +1,7 @@
 # Henry Wood House Menu
 
+[![npm version](https://badge.fury.io/js/hwh-lunch.svg)](https://badge.fury.io/js/hwh-lunch)
+
 [Henry Wood House](http://www.theofficegroup.co.uk/locations/henrywoodhouse/)
 is an office building in London, run by [The Office Group](http://www.theofficegroup.co.uk/).
 

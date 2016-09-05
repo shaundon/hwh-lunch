@@ -69,7 +69,7 @@ var getMenu = function(dayOfWeek) {
       fulfill('It\'s the weekend, no lunch today!');
     }
     else {
-      xray(HWH_MENU_ADDRESS, '.food-menu')(function(err, content) {
+      xray(url, '.food-menu')(function(err, content) {
         fulfill(retrieveLunchContent(content));
       });
     }
